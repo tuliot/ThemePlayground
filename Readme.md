@@ -8,7 +8,7 @@ You can do whatever you want! My suggestion is to try to play around with `Theme
 
 
 ## I saw your talk
-If you've arrived at this Playground because you watched my talk on supporting themes with UIAppearance, the following notes will be useful
+If you've arrived at this Playground because you watched my talk on supporting themes with UIAppearance, the following notes will be useful.
 
 
 Look for comments like this one: 
@@ -42,6 +42,7 @@ of inheritance work with UIAppearance
 * [UIAppearance NSHipster article](http://nshipster.com/uiappearance/)
 * [UIAppearance Apple Docs](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIAppearance_Protocol/)
 * [UIImage Apple Docs](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIImage_Class/)
+* [Tulio's Theme Support Presentation Slides](https://docs.google.com/presentation/d/1sfvXTV5NxL5qhcxArX8VDBrWHwwyq-k7WbWXS-mM66Q/edit?usp=sharing)
 
 ## License
 The MIT License (MIT)  
